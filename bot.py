@@ -8,7 +8,7 @@ from discord.ext import commands
 import asyncio
 import time
 import random
-import os module
+import os
 
 from datetime import datetime, timezone
 
