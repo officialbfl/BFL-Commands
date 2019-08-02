@@ -15,9 +15,6 @@ from datetime import datetime, timezone
 Client = discord.Client()
 client = commands.Bot(command_prefix = "-")
 client.remove_command('help')
-os.chdir(r'C:\Users\Tadija\Documents\Discord Bot Mehmed')
-
-players = {}
 
 #______________________EVENTS______________________#
 
